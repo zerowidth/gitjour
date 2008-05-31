@@ -1,12 +1,13 @@
-bin/gitjour
 History.txt
 License.txt
 Manifest.txt
 README.txt
 Rakefile
+bin/gitjour
 config/hoe.rb
 config/requirements.rb
 lib/gitjour.rb
+lib/gitjour/application.rb
 lib/gitjour/version.rb
 log/debug.log
 script/destroy
